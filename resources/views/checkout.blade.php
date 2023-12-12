@@ -30,34 +30,6 @@
                                         <a class="submit-button-1" href="#" title="Add to Cart" data-bs-toggle="modal" data-bs-target="#add_to_cart_modal">Add to Cart</a>
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td class="cart-product-remove">x</td>
-                                    <td class="cart-product-image">
-                                        <a href="product-details.html"><img src="img/product/2.png" alt="#"></a>
-                                    </td>
-                                    <td class="cart-product-info">
-                                        <h4><a href="product-details.html">Orange Fresh Juice</a></h4>
-                                    </td>
-                                    <td class="cart-product-price">$89.00</td>
-                                    <td class="cart-product-stock">In Stock</td>
-                                    <td class="cart-product-add-cart">
-                                        <a class="submit-button-1" href="#" title="Add to Cart" data-bs-toggle="modal" data-bs-target="#add_to_cart_modal">Add to Cart</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="cart-product-remove">x</td>
-                                    <td class="cart-product-image">
-                                        <a href="product-details.html"><img src="img/product/4.png" alt="#"></a>
-                                    </td>
-                                    <td class="cart-product-info">
-                                        <h4><a href="product-details.html">Poltry Farm Meat</a></h4>
-                                    </td>
-                                    <td class="cart-product-price">$149.00</td>
-                                    <td class="cart-product-stock">In Stock</td>
-                                    <td class="cart-product-add-cart">
-                                        <a class="submit-button-1" href="#" title="Add to Cart" data-bs-toggle="modal" data-bs-target="#add_to_cart_modal">Add to Cart</a>
-                                    </td>
-                                </tr>
                             </tbody>
                         </table>
                     </div>
