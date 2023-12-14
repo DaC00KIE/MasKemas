@@ -43,7 +43,7 @@
                                 <div class="ltn__main-menu">
                                     <ul>
                                         <li><a href="/contact">Contact</a></li>
-                                        <li class="menu-icon"><a href="#">Shop</a>
+                                        <li class="menu-icon"><a href="/shop">Shop</a>
                                             <ul>
                                                 <li><a href="shop.html">Shop</a></li>
                                                 <li><a href="shop-grid.html">Shop Grid</a></li>
@@ -79,8 +79,8 @@
                                 <li>
                                     <a href="#"><i class="icon-user"></i></a>
                                     <ul>
-                                        <li><a href="login.html">Sign in</a></li>
-                                        <li><a href="register.html">Register</a></li>
+                                        <li><a href="/signin">Sign in</a></li>
+                                        <li><a href="/register">Register</a></li>
                                         <li><a href="account.html">My Account</a></li>
                                     </ul>
                                 </li>

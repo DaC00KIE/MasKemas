@@ -28,3 +28,19 @@ Route::get('/contact', function () {
 Route::get('/checkout', function () {
     return view('checkout');
 });
+
+Route::get('/signin', function () {
+    return view('signin');
+});
+
+Route::get('/register', function () {
+    return view('register');
+});
+
+Route::get('/shop', function () {
+    return view('shop');
+});
+
+Route::get('/productdetails', function () {
+    return view('productdetails');
+});
